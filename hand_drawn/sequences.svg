@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="17716.535"
+   height="17716.535"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="sequences.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS"
+       style="overflow:visible">
+      <path
+         id="path25358"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path25300"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart"
+       style="overflow:visible">
+      <path
+         id="path3870"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3630"
+       style="overflow:visible">
+      <path
+         id="path3632"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3634"
+       style="overflow:visible">
+      <path
+         id="path3636"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3638"
+       style="overflow:visible">
+      <path
+         id="path3640"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3642"
+       style="overflow:visible">
+      <path
+         id="path3644"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3646"
+       style="overflow:visible">
+      <path
+         id="path3648"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3650"
+       style="overflow:visible">
+      <path
+         id="path3652"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3654"
+       style="overflow:visible">
+      <path
+         id="path3656"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.32"
+     inkscape:cx="243.24657"
+     inkscape:cy="21.726682"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1362"
+     inkscape:window-height="673"
+     inkscape:window-x="0"
+     inkscape:window-y="72"
+     inkscape:window-maximized="0"
+     showborder="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     units="m" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,16664.085)">
+    <g
+       id="g5232"
+       transform="translate(-1167.3799,869.75156)"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+         d="m 337.92308,41.199474 75.31417,0 c 7.51733,0 12.10977,5.26765 13.56919,11.42858 10.55836,44.57216 8.23708,89.144326 0,133.716486 -1.15059,6.22601 -6.05186,11.42857 -13.56919,11.42857 l -75.31417,0 c -7.51733,0 -12.36774,-5.21218 -13.56918,-11.42857 -8.41121,-43.52076 -12.93146,-87.527886 0,-133.716486 1.70698,-6.09699 6.05185,-11.42858 13.56918,-11.42858 z"
+         id="path5234"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <text
+         xml:space="preserve"
+         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="335.75165"
+         y="123.02185"
+         id="text5236"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5238"
+           x="335.75165"
+           y="123.02185">Proxy</tspan></text>
+    </g>
+    <g
+       id="g5240"
+       transform="translate(-889.36204,869.75156)"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+         d="m 566.49452,41.199474 75.31417,0 c 7.51733,0 12.53529,5.18214 13.56919,11.42858 11.50268,69.494626 3.8035,97.385236 0,133.716486 -0.65923,6.29702 -6.05186,11.42857 -13.56919,11.42857 l -75.31417,0 c -7.51732,0 -12.93506,-5.12897 -13.56918,-11.42857 -4.07633,-40.49584 -11.32907,-77.81526 0,-133.716486 1.25758,-6.20528 6.05186,-11.42858 13.56918,-11.42858 z"
+         id="path5242"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <text
+         xml:space="preserve"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="578.25226"
+         y="123.02185"
+         id="text5244"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5246"
+           x="578.25226"
+           y="123.02185">Web</tspan></text>
+    </g>
+    <g
+       id="g5287"
+       transform="translate(-818.37444,-87.905455)"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5289"
+         transform="translate(-41.416248,-20.203053)">
+        <path
+           sodipodi:nodetypes="sssssssss"
+           inkscape:connector-curvature="0"
+           id="path5291"
+           d="m 300.54744,1019.059 75.31417,0 c 7.51733,0 12.53529,5.1821 13.56919,11.4286 11.50268,69.4946 3.8035,97.3852 0,133.7164 -0.65923,6.2971 -6.05186,11.4286 -13.56919,11.4286 l -75.31417,0 c -7.51732,0 -12.93506,-5.129 -13.56918,-11.4286 -4.07633,-40.4958 -11.32907,-77.8152 0,-133.7164 1.25758,-6.2053 6.05186,-11.4286 13.56918,-11.4286 z"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text5293"
+           y="1091.2931"
+           x="337.56494"
+           style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="1091.2931"
+             x="337.56494"
+             id="tspan5295"
+             sodipodi:role="line">Viren-</tspan><tspan
+             y="1121.2931"
+             x="337.56494"
+             sodipodi:role="line"
+             id="tspan5297">scanner</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g5303"
+       transform="translate(-1178.3402,884.14556)"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+         d="m 103.87372,41.199474 75.31417,0 c 7.51733,0 11.45336,5.46115 13.56919,11.42858 6.73017,18.98163 3.5254,37.96327 0,56.944896 -1.15615,6.22498 -6.05186,11.42857 -13.56919,11.42857 l -75.31417,0 c -7.517331,0 -13.020077,-5.121 -13.569187,-11.42857 -1.596852,-18.342886 -7.16854,-35.095846 0,-56.944896 1.973784,-6.01591 6.051856,-11.42858 13.569187,-11.42858 z"
+         id="path5305"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+         d="m 88.398426,128.57766 c 36.871054,5.97636 72.451494,6.14499 106.628914,0 7.39868,-1.33026 13.56918,5.09715 13.56918,11.42857 l 0,13.50835 c 0,6.33143 -6.12533,10.38017 -13.56918,11.42857 -37.52487,5.28506 -73.14436,5.48911 -106.628914,0 -7.418313,-1.21608 -13.569184,-5.09714 -13.569184,-11.42857 l 0,-13.50835 c 0,-6.33142 6.148702,-12.63134 13.569184,-11.42857 z"
+         id="path5307"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+         d="m 115.69911,50.795934 52.74166,0 c 7.51733,0 12.29294,5.2271 13.56918,11.42857 3.12203,15.17043 2.58149,27.89915 0,39.267226 -1.40206,6.17424 -6.05185,11.42857 -13.56918,11.42857 l -52.74166,0 c -7.51733,0 -12.83828,-5.13947 -13.56918,-11.42857 -1.47824,-12.719516 -5.615218,-24.774346 0,-39.267226 2.2874,-5.9038 6.05185,-11.42857 13.56918,-11.42857 z"
+         id="path5309"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5311"
+         y="87.666519"
+         x="106.5742"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="87.666519"
+           x="106.5742"
+           id="tspan5313"
+           sodipodi:role="line">Client</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1047.0203,1091.768 c -0.724,127.6263 17.8089,185.8924 2.0203,284.863"
+       id="path5315"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5317"
+       d="m -792.46184,1091.768 c -0.724,127.6263 17.8089,185.8924 2.0203,284.863"
+       style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -521.74104,1091.768 c -0.724,127.6263 17.8089,185.8924 2.0203,284.863"
+       id="path5319"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5321"
+       d="m -285.36534,1091.768 c -0.724,127.6263 17.8089,185.8924 2.0203,284.863"
+       style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Mstart)"
+       d="m -800.50664,1121.8153 c -38.6777,-0.4424 -204.62496,-12.0618 -237.58376,-12.4929"
+       id="path5323"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5325"
+       d="m -535.84674,1138.9879 c -38.6776,-0.4424 -204.6249,-12.0618 -237.5837,-12.493"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Mstart)"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Mstart)"
+       d="m -773.80194,1169.2925 c 38.6776,-0.4424 204.6249,-12.0618 237.5837,-12.493"
+       id="path5327"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Mstart)"
+       d="m -293.41004,1220.8103 c -38.6777,-0.4425 -450.0921,-18.1227 -483.0509,-18.5539"
+       id="path5329"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5331"
+       d="m -776.24064,1256.5246 c 38.6776,-0.4425 450.092,-18.1228 483.0508,-18.5539"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Mstart)"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Mstart)"
+       d="m -532.98954,1291.8451 c -38.6777,-0.4425 -204.625,-12.0618 -237.5838,-12.493"
+       id="path5333"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5335"
+       d="m -770.94484,1322.1496 c 38.6777,-0.4424 204.625,-12.0618 237.5838,-12.4929"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Mstart)"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5337"
+       d="m -1029.5162,1333.5782 c 38.67762,-0.4424 204.62486,-12.0618 237.58366,-12.493"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Mstart)"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5539"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-2.5225692,681.86255)">
+      <rect
+         ry="0"
+         rx="0"
+         y="423.43362"
+         x="-953.57141"
+         height="23.214277"
+         width="58.214321"
+         id="rect5537"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5339"
+         y="441.04327"
+         x="-949.87445"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:20px"
+           y="441.04327"
+           x="-949.87445"
+           id="tspan5341"
+           sodipodi:role="line">HTTP</tspan></text>
+    </g>
+    <g
+       id="g5544"
+       transform="translate(263.14753,696.00455)"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect5546"
+         width="58.214321"
+         height="23.214277"
+         x="-953.57141"
+         y="423.43362"
+         rx="0"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="-949.87445"
+         y="441.04327"
+         id="text5548"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5550"
+           x="-949.87445"
+           y="441.04327"
+           style="font-size:20px">ICAP</tspan></text>
+    </g>
+    <g
+       transform="translate(263.14753,727.31955)"
+       id="g5552"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="0"
+         rx="0"
+         y="423.43362"
+         x="-953.57141"
+         height="23.214277"
+         width="58.214321"
+         id="rect5554"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5556"
+         y="441.04327"
+         x="-949.87445"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:20px"
+           y="441.04327"
+           x="-949.87445"
+           id="tspan5558"
+           sodipodi:role="line">ICAP</tspan></text>
+    </g>
+    <g
+       id="g5560"
+       transform="translate(404.56883,772.23555)"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect5562"
+         width="58.214321"
+         height="23.214277"
+         x="-953.57141"
+         y="423.43362"
+         rx="0"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="-949.87445"
+         y="441.04327"
+         id="text5564"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5566"
+           x="-949.87445"
+           y="441.04327"
+           style="font-size:20px">HTTP</tspan></text>
+    </g>
+    <g
+       transform="translate(406.58913,813.13156)"
+       id="g5568"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="0"
+         rx="0"
+         y="423.43362"
+         x="-953.57141"
+         height="23.214277"
+         width="58.214321"
+         id="rect5570"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5572"
+         y="441.04327"
+         x="-949.87445"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:20px"
+           y="441.04327"
+           x="-949.87445"
+           id="tspan5574"
+           sodipodi:role="line">HTTP</tspan></text>
+    </g>
+    <g
+       id="g5576"
+       transform="translate(274.25923,849.54856)"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect5578"
+         width="58.214321"
+         height="23.214277"
+         x="-953.57141"
+         y="423.43362"
+         rx="0"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="-949.87445"
+         y="441.04327"
+         id="text5580"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5582"
+           x="-949.87445"
+           y="441.04327"
+           style="font-size:20px">ICAP</tspan></text>
+    </g>
+    <g
+       transform="translate(274.25923,882.88356)"
+       id="g5584"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="0"
+         rx="0"
+         y="423.43362"
+         x="-953.57141"
+         height="23.214277"
+         width="58.214321"
+         id="rect5586"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5588"
+         y="441.04327"
+         x="-949.87445"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:20px"
+           y="441.04327"
+           x="-949.87445"
+           id="tspan5590"
+           sodipodi:role="line">ICAP</tspan></text>
+    </g>
+    <g
+       id="g5592"
+       transform="translate(11.742131,892.39256)"
+       inkscape:export-filename="/home/xgvndeg/data/presentations/20140422-monster_on_rails/source/images/proxy_round_trip.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect5594"
+         width="58.214321"
+         height="23.214277"
+         x="-953.57141"
+         y="423.43362"
+         rx="0"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="-949.87445"
+         y="441.04327"
+         id="text5596"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5598"
+           x="-949.87445"
+           y="441.04327"
+           style="font-size:20px">HTTP</tspan></text>
+    </g>
+  </g>
+</svg>
